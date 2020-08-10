@@ -65,7 +65,7 @@ export default function Input() {
       <h2>Input</h2>
   <div style={style}>{inputValue}</div> {/* STEP 3 */}
       <div>
-        <input type='text' onChange={changeInput} /> {/* STEP 6 */}
+        <input type='text' onChange={changeInput} value={inputValue}/> {/* STEP 6 */}
         <button onClick={reset}>Reset</button>
       </div>
     </div>
