@@ -5,18 +5,18 @@ margin: 10em auto;
 border-radius: 15px;
 padding: 20px 10px;
 color: white;
-border: 3px solid rgb(36, 110, 194);
+border: 3px solid limegreen;
 }
     
 .task{
-border: 1px solid white;
+border: 1px solid limegreen;
 border-radius: 5px;
 padding: 0.5em;
 margin: 0.5em;
 }
 
 .task button{
-background: rgb(12, 124, 251);
+background: royalblue;
 border-radius: 5px;
 margin: 0px 5px;
 padding: 3px 5px;
